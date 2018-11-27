@@ -10,15 +10,15 @@ function setup() {
 
 
 function draw() {
-background("#db8a8a");
-fill("#177aa8");
+background("#840f0f");
+fill("#ffffff");
 
 textSize (40)
 textFont("Georgia")
 textStyle(ITALIC)
 text('MOVE THE MOUSE',height/4,width/2.5);
 
- fill("#ffffff")
+ fill("#49617f")
   background(30,30); // translucent background (creates trails)
 
   // make a x and y grid of ellipses
